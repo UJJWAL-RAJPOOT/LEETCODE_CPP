@@ -1,5 +1,3 @@
-ujjjwal randi
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
