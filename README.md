@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
