@@ -25,6 +25,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -41,4 +42,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
