@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
