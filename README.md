@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,5 +69,10 @@
 | ------- |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
