@@ -10,12 +10,14 @@
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
