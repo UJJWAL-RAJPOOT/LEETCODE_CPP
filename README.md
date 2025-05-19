@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
