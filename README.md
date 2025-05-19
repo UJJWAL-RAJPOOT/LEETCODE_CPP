@@ -45,6 +45,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
