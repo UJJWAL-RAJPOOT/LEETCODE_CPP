@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
@@ -26,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
