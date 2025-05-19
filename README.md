@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
