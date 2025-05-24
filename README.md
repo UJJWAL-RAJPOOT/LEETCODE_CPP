@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
