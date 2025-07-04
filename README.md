@@ -41,6 +41,7 @@
 | [0050-powx-n](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Heap (Priority Queue)
