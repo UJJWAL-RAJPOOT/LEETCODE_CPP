@@ -27,6 +27,7 @@
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
