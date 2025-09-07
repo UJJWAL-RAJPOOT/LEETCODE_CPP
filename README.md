@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
