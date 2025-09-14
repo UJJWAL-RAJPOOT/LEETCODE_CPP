@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -35,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
+| [0941-sort-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
