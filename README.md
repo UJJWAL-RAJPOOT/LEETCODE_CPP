@@ -18,6 +18,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
