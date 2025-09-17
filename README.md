@@ -19,6 +19,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2058-concatenation-of-array) |
+| [3778-transform-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,10 +68,12 @@
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
 | [0941-sort-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1019-squares-of-a-sorted-array) |
+| [3778-transform-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0169-majority-element) |
+| [3778-transform-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
