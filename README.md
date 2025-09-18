@@ -19,6 +19,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3778-transform-array-by-parity](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0125-valid-palindrome) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
