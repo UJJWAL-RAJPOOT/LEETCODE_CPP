@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
@@ -96,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0119-pascals-triangle-ii) |
 ## Linked List
 |  |
@@ -108,6 +111,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
@@ -123,4 +127,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/UJJWAL-RAJPOOT/LEETCODE_CPP/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
